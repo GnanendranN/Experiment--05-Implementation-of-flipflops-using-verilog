@@ -1,6 +1,6 @@
-# Name: Gnanendran N
-# Register Number: 23006661
-# Experiment--05-Implementation-of-flipflops-using-verilog
+# Experiment 05 Implementation of flipflops using verilog
+## Name: Gnanendran N
+## Register Number: 23006661
 # AIM: 
 To implement all the flipflops using verilog and validating their functionality using their functional tables
 # HARDWARE REQUIRED:
